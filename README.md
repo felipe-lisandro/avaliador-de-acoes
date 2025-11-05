@@ -22,6 +22,10 @@ cd avaliador-de-acoes
 python main.py
 ```
 
+## Rodar em Windows
+
+Também é possível rodar o programa usando `app.bat` em um sistema Windows
+
 ## Funcionalidades
 
 - Criação de filtros personalizados para análise de ações

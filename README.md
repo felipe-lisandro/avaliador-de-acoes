@@ -33,3 +33,7 @@ Também é possível rodar o programa usando `app.bat` em um sistema Windows
 - Análise de ações no banco de dados local
 - Obtenção de dados de mercado (necessita conta Interactive Brokers) e dados fundamentais
 - Display de melhores ações dentro do filtro
+
+## Obervação
+
+Essa versão do programa não inclui arquivos em cache na instalação, você precisa de uma conta Interactive Brokers para obter os dados localmente
